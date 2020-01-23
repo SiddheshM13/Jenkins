@@ -1,1 +1,2 @@
-echo "Hello world"
+echo "Hello world";
+echo "Jenkins test 1"
